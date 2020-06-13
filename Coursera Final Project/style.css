@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    background-color:wheat;
+}
+body
+{
+    font-family: inherit;
+}
+h1{
+   color: aliceblue;
+    background-color: black;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    font-variant: small-caps;
+}
+h2{
+    background-color: silver;
+    text-decoration-color: aqua;
+}
+.1 {
+    text-align: center;
+}
+figure{
+    background: darkgray;
+}
